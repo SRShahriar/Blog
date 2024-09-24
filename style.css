@@ -1,0 +1,49 @@
+header {
+  text-align: center;
+}
+header img:hover {
+  border: 1px solid #615959;
+}
+header small {
+  font-family: 700px;
+  font-size: 18px;
+  margin-bottom: 30px;
+  display: block;
+}
+
+button {
+  padding: 10px 30px;
+  border-radius: 10px;
+  background-color: #0a8080;
+  color: #ffffff;
+}
+header .vv {
+  width: 500px;
+  margin: 0 auto;
+  display: block;
+  margin-top: 50px;
+}
+.vv img {
+  width: 100%;
+}
+.vv img:hover {
+  border: 1px solid #615959;
+}
+h2 {
+  text-align: center;
+  font-size: 26px;
+}
+.parent {
+  background-color: #f0eded;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+.parent:hover {
+  border: 1px solid #615959;
+}
+footer {
+  background-color: #0a8080;
+  color: #f0eded;
+  padding: 10px;
+  text-align: center;
+}
